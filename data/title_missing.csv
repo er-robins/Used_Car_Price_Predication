@@ -1,0 +1,543 @@
+,price,year,condition,cylinders,odometer,title_status,transmission,drive,type,state,simplified_model
+599,1500,2004.0,fair,4.0,150000.0,missing,automatic,rwd,truck,al,colorado
+1091,4000,1958.0,good,8.0,110000.0,missing,automatic,4wd,Not Specified,al,ford
+1391,2950,1963.0,fair,4.0,1164.0,missing,manual,rwd,convertible,al,chevrolet
+1723,5250,1999.0,fair,8.0,248000.0,missing,automatic,rwd,pickup,al,f150
+4146,2000,2011.0,good,5.0,117852.0,missing,automatic,rwd,sedan,al,lexus
+5193,6000,1952.0,Not Specified,6.0,0.0,missing,manual,Not Specified,Not Specified,ak,dodge
+5331,3000,1971.0,fair,4.0,6042.0,missing,other,rwd,hatchback,ak,super
+7541,1100,2007.0,Not Specified,4.0,273000.0,missing,automatic,Not Specified,Not Specified,ak,accord
+7761,500,2008.0,fair,4.0,187450.0,missing,automatic,fwd,hatchback,ak,toyota
+8200,12500,2016.0,good,4.0,20190.0,missing,automatic,fwd,coupe,ak,prius
+8476,1000,2015.0,salvage,6.0,45000.0,missing,automatic,fwd,sedan,az,altima
+9600,2200,1977.0,good,8.0,30000.0,missing,automatic,rwd,truck,az,f150
+11247,1700,1980.0,Not Specified,8.0,95706.0,missing,automatic,Not Specified,Not Specified,az,f150
+11341,32500,1932.0,new,8.0,50.0,missing,manual,fwd,coupe,az,ford
+13581,3500,1955.0,good,8.0,99999.0,missing,automatic,Not Specified,Not Specified,az,buick
+15065,2250,1973.0,fair,4.0,999999.0,missing,manual,rwd,Not Specified,az,volkswagen
+15088,1400,1984.0,good,6.0,79000.0,missing,manual,4wd,pickup,az,ford
+16745,4500,2007.0,fair,6.0,127000.0,missing,automatic,fwd,coupe,az,bmw
+17789,2500,1970.0,good,8.0,95000.0,missing,automatic,rwd,truck,ar,chevrolet
+18642,1500,1960.0,salvage,8.0,123156.0,missing,other,rwd,bus,ar,ford
+19306,2000,1962.0,salvage,8.0,150000.0,missing,manual,rwd,coupe,ar,impala
+19574,800,2005.0,salvage,6.0,189000.0,missing,automatic,4wd,Not Specified,ar,dodge
+20537,3500,1991.0,good,6.0,120000.0,missing,automatic,rwd,convertible,ar,camaro
+20744,7500,1965.0,good,6.0,50000.0,missing,manual,4wd,truck,ar,jeep
+20765,8500,1964.0,fair,8.0,100000.0,missing,manual,rwd,coupe,ar,malibu
+21760,10000,1965.0,good,8.0,999999.0,missing,automatic,Not Specified,bus,ca,chevrolet
+22043,2800,2000.0,Not Specified,6.0,1.0,missing,manual,Not Specified,Not Specified,ca,bmw
+24804,500,2005.0,salvage,6.0,183853.0,missing,automatic,Not Specified,Not Specified,ca,es
+25087,150,1949.0,Not Specified,6.0,9999999.0,missing,other,Not Specified,Not Specified,ca,dodge
+26214,750,1980.0,fair,8.0,100000.0,missing,automatic,fwd,sedan,ca,cadillac
+26881,1000,1978.0,fair,8.0,60000.0,missing,automatic,4wd,SUV,ca,chevrolet
+27232,5800,1967.0,Not Specified,8.0,99999.0,missing,automatic,Not Specified,Not Specified,ca,chevrolet
+28769,1800,2000.0,Not Specified,6.0,300000.0,missing,manual,4wd,Not Specified,ca,f150
+28907,105,1978.0,Not Specified,4.0,9999999.0,missing,manual,rwd,Not Specified,ca,mercedes-benz
+30377,16000,1940.0,good,5.0,1.0,missing,other,rwd,Not Specified,ca,jeep
+30471,2650,1935.0,fair,6.0,100000.0,missing,manual,rwd,Not Specified,ca,dodge
+30759,1750,1963.0,Not Specified,8.0,0.0,missing,automatic,Not Specified,Not Specified,ca,ford
+31552,2500,1964.0,good,8.0,96975.0,missing,automatic,rwd,sedan,ca,chrysler
+33674,17500,1955.0,Not Specified,8.0,1000.0,missing,manual,Not Specified,Not Specified,ca,chevrolet
+34143,32500,1932.0,new,8.0,50.0,missing,manual,fwd,coupe,ca,ford
+34780,13500,1957.0,good,8.0,1000000.0,missing,manual,Not Specified,bus,ca,chevrolet
+35630,6300,1948.0,good,6.0,1222334.0,missing,manual,rwd,sedan,ca,chevrolet
+36303,2000,1965.0,Not Specified,8.0,12345.0,missing,manual,rwd,Not Specified,ca,mustang
+36557,4000,2003.0,good,4.0,300000.0,missing,automatic,Not Specified,sedan,ca,camry
+36830,595,1978.0,Not Specified,4.0,65000.0,missing,manual,4wd,Not Specified,ca,chevrolet
+37452,6500,1964.0,fair,8.0,154386.0,missing,manual,rwd,truck,ca,chevrolet
+37653,6500,1981.0,fair,4.0,100000.0,missing,manual,4wd,pickup,ca,toyota
+38066,2900,2005.0,good,6.0,316100.0,missing,automatic,fwd,SUV,ca,pilot
+38127,6900,1949.0,fair,6.0,1000000.0,missing,manual,rwd,truck,ca,chevrolet
+39781,2000,2008.0,fair,8.0,270000.0,missing,automatic,4wd,SUV,ca,rover
+39849,750,1978.0,fair,8.0,100000.0,missing,automatic,fwd,sedan,ca,town
+39851,750,1980.0,fair,8.0,100000.0,missing,automatic,fwd,Not Specified,ca,cadillac
+40000,800,1953.0,Not Specified,8.0,50508.0,missing,manual,Not Specified,Not Specified,ca,mercury
+41363,17500,1955.0,good,8.0,10000.0,missing,manual,Not Specified,Not Specified,ca,chevrolet
+41364,17500,1955.0,good,8.0,10000.0,missing,manual,Not Specified,Not Specified,ca,chevrolet
+41728,3500,1989.0,good,8.0,36000.0,missing,automatic,rwd,Not Specified,ca,ford
+41772,5000,2001.0,Not Specified,8.0,175000.0,missing,automatic,4wd,truck,ca,silverado
+42024,7000,1963.0,fair,8.0,1000.0,missing,automatic,rwd,truck,ca,chevrolet
+44153,2500,1970.0,fair,8.0,100000.0,missing,automatic,rwd,coupe,ca,chrysler
+44824,1800,1985.0,fair,8.0,129000.0,missing,automatic,Not Specified,pickup,ca,f250
+48561,3000,1967.0,Not Specified,8.0,1000.0,missing,other,Not Specified,Not Specified,ca,f150
+49045,600,2009.0,salvage,5.0,200000.0,missing,automatic,4wd,SUV,ca,volvo
+49583,7000,1930.0,good,4.0,500.0,missing,manual,rwd,Not Specified,ca,ford
+49913,600,2009.0,salvage,5.0,200000.0,missing,automatic,4wd,SUV,ca,volvo
+49942,3500,1964.0,fair,6.0,397995.0,missing,manual,rwd,truck,ca,chevrolet
+50452,1000,2003.0,fair,4.0,150000.0,missing,automatic,Not Specified,Not Specified,ca,passat
+50626,2500,1991.0,fair,6.0,212000.0,missing,automatic,4wd,Not Specified,ca,toyota
+50667,600,2009.0,salvage,5.0,200000.0,missing,automatic,4wd,SUV,ca,volvo
+50783,3000,1976.0,fair,8.0,1000.0,missing,manual,4wd,Not Specified,ca,chevrolet
+52146,10950,1990.0,excellent,4.0,147000.0,missing,manual,rwd,convertible,ca,mazda
+54525,2500,1997.0,excellent,8.0,132359.0,missing,automatic,rwd,truck,ca,1500
+55047,3000,1957.0,fair,8.0,0.0,missing,other,rwd,other,ca,chevrolet
+55289,9000,2002.0,excellent,6.0,175000.0,missing,automatic,Not Specified,Not Specified,ca,benz
+55505,7900,1957.0,Not Specified,8.0,1000.0,missing,manual,Not Specified,Not Specified,ca,ford
+55522,2250,1959.0,Not Specified,7.0,1000.0,missing,manual,Not Specified,Not Specified,ca,dodge
+55540,8500,1959.0,Not Specified,8.0,10000.0,missing,manual,Not Specified,Not Specified,ca,chevrolet
+55671,15900,1959.0,Not Specified,8.0,60000.0,missing,automatic,Not Specified,Not Specified,ca,cadillac
+55825,1400,1998.0,good,6.0,93000.0,missing,automatic,rwd,Not Specified,ca,explorer
+56055,6900,1951.0,fair,6.0,34000.0,missing,manual,rwd,pickup,ca,gmc
+56367,7500,1974.0,Not Specified,8.0,72000.0,missing,automatic,4wd,pickup,ca,ford
+57365,4500,1949.0,good,6.0,150000.0,missing,manual,rwd,truck,ca,ford
+57770,3950,1952.0,Not Specified,6.0,55000.0,missing,manual,Not Specified,Not Specified,ca,dodge
+57923,21999,2010.0,excellent,8.0,85021.0,missing,automatic,Not Specified,coupe,ca,camaro
+58562,750,1965.0,fair,4.0,114000.0,missing,manual,rwd,sedan,ca,volvo
+59100,3000,1967.0,fair,4.0,88888.0,missing,manual,rwd,coupe,ca,volvo
+62415,2500,2008.0,good,4.0,119000.0,missing,automatic,fwd,hatchback,ca,volkswagen
+63093,1500,1961.0,Not Specified,6.0,100000.0,missing,automatic,Not Specified,Not Specified,ca,mercury
+63217,799,2003.0,Not Specified,4.0,100000.0,missing,automatic,Not Specified,Not Specified,ca,sonata
+65708,2250,1992.0,good,6.0,78500.0,missing,automatic,fwd,sedan,ca,chrysler
+66761,4800,1929.0,Not Specified,4.0,20000.0,missing,manual,Not Specified,Not Specified,ca,ford
+66863,3500,1969.0,Not Specified,8.0,12345.0,missing,automatic,rwd,Not Specified,ca,pontiac
+66967,1500,2002.0,fair,4.0,158962.0,missing,automatic,fwd,Not Specified,ca,prius
+68639,4700,1986.0,good,4.0,102800.0,missing,manual,rwd,convertible,ca,alfa-romeo
+69434,5500,1976.0,Not Specified,4.0,55000.0,missing,manual,Not Specified,Not Specified,ca,volkswagen
+69436,3500,1972.0,Not Specified,4.0,40000.0,missing,manual,Not Specified,Not Specified,ca,volkswagen
+69437,4500,1972.0,Not Specified,4.0,42000.0,missing,other,Not Specified,Not Specified,ca,volkswagen
+69821,5000,1962.0,good,8.0,17820.0,missing,automatic,rwd,Not Specified,ca,mercury
+72980,3500,1973.0,Not Specified,8.0,123456.0,missing,other,Not Specified,Not Specified,co,chevrolet
+73119,1400,1976.0,salvage,4.0,94354.0,missing,automatic,rwd,sedan,co,dodge
+74587,5000,1954.0,Not Specified,6.0,100000.0,missing,manual,Not Specified,Not Specified,co,ford
+75027,2500,1964.0,fair,6.0,200000.0,missing,manual,rwd,Not Specified,co,chevrolet
+77698,4000,1953.0,Not Specified,8.0,999.0,missing,other,Not Specified,Not Specified,co,chevrolet
+79741,5000,2001.0,salvage,8.0,150000.0,missing,automatic,4wd,truck,co,f350
+80835,2000,1979.0,Not Specified,8.0,140000.0,missing,automatic,Not Specified,Not Specified,co,grand
+81330,4000,1962.0,Not Specified,8.0,1000.0,missing,automatic,Not Specified,Not Specified,co,chevrolet
+81489,11500,1964.0,Not Specified,6.0,1000.0,missing,automatic,Not Specified,Not Specified,co,impala
+81877,15000,1942.0,good,8.0,1234567.0,missing,automatic,rwd,truck,co,ford
+82953,37500,1934.0,Not Specified,8.0,5600.0,missing,automatic,Not Specified,Not Specified,ct,ford
+83340,3000,1994.0,good,4.0,53000.0,missing,automatic,Not Specified,convertible,ct,pontiac
+83469,2200,1995.0,Not Specified,6.0,10000.0,missing,manual,Not Specified,Not Specified,ct,mustang
+83708,950,1995.0,good,8.0,194000.0,missing,automatic,4wd,pickup,ct,dodge
+84426,4550,1987.0,good,6.0,132000.0,missing,automatic,fwd,coupe,ct,camaro
+85928,30000,1965.0,Not Specified,8.0,70606.0,missing,automatic,Not Specified,Not Specified,ct,ford
+85929,30000,1968.0,Not Specified,6.0,12067.0,missing,automatic,Not Specified,Not Specified,ct,pontiac
+86048,1000,1997.0,fair,6.0,195000.0,missing,automatic,rwd,sedan,ct,bmw
+86165,4100,1979.0,fair,8.0,102000.0,missing,automatic,rwd,sedan,ct,camaro
+86496,5200,1960.0,Not Specified,8.0,15000.0,missing,automatic,Not Specified,Not Specified,ct,f150
+87446,19900,1978.0,excellent,6.0,86000.0,missing,automatic,Not Specified,Not Specified,ct,chevrolet
+87505,8500,1968.0,good,4.0,21000.0,missing,other,rwd,convertible,ct,volkswagen
+87697,800,1988.0,fair,6.0,91808.0,missing,manual,rwd,pickup,ct,f150
+87758,1000,2006.0,Not Specified,4.0,175600.0,missing,automatic,Not Specified,Not Specified,ct,mercedes-benz
+88460,5700,2013.0,good,4.0,41000.0,missing,automatic,fwd,sedan,dc,prius
+88511,1000,2014.0,Not Specified,4.0,39939.0,missing,automatic,Not Specified,Not Specified,dc,sentra
+89075,1000,2014.0,Not Specified,4.0,39939.0,missing,automatic,Not Specified,Not Specified,dc,sentra
+90081,1000,2014.0,Not Specified,4.0,39939.0,missing,automatic,Not Specified,Not Specified,dc,sentra
+90221,6500,1988.0,good,4.0,100000.0,missing,manual,rwd,Not Specified,dc,mazda
+92065,2500,1951.0,good,8.0,89000.0,missing,manual,rwd,sedan,fl,ford
+94434,600,1994.0,Not Specified,4.0,123456.0,missing,manual,Not Specified,Not Specified,fl,civic
+96868,243,2017.0,excellent,4.0,54962.0,missing,automatic,Not Specified,SUV,fl,mazda
+96902,123,2016.0,excellent,4.0,53406.0,missing,automatic,Not Specified,sedan,fl,hyundai
+97017,1500,2003.0,good,6.0,224000.0,missing,manual,rwd,truck,fl,tundra
+97810,6000,1999.0,excellent,8.0,202000.0,missing,automatic,rwd,Not Specified,fl,express
+98824,300,1984.0,salvage,8.0,1090.0,missing,automatic,Not Specified,Not Specified,fl,f150
+99103,20000,1964.0,excellent,6.0,36804.0,missing,manual,4wd,SUV,fl,benz
+99137,4000,1975.0,fair,8.0,84000.0,missing,automatic,Not Specified,Not Specified,fl,buick
+100984,123,2016.0,excellent,4.0,53406.0,missing,automatic,Not Specified,sedan,fl,hyundai
+102111,2000,1996.0,Not Specified,6.0,2000.0,missing,automatic,Not Specified,Not Specified,fl,wrangler
+102199,2500,1951.0,good,8.0,89000.0,missing,manual,rwd,sedan,fl,ford
+103450,2500,1983.0,fair,8.0,156000.0,missing,automatic,rwd,pickup,fl,sierra
+103975,131,2019.0,excellent,8.0,36344.0,missing,other,Not Specified,sedan,fl,mitsubishi
+104501,2500,1951.0,good,8.0,89000.0,missing,manual,rwd,sedan,fl,ford
+108188,2500,1955.0,Not Specified,5.0,99.0,missing,manual,4wd,pickup,fl,jeep
+110756,900,1999.0,Not Specified,4.0,149000.0,missing,automatic,4wd,Not Specified,fl,outback
+111711,2500,1951.0,good,8.0,89000.0,missing,manual,rwd,sedan,fl,ford
+112355,3000,2003.0,good,4.0,116000.0,missing,automatic,Not Specified,SUV,fl,escape
+112781,500,2008.0,Not Specified,4.0,109099.0,missing,automatic,Not Specified,Not Specified,fl,accord
+114081,119,2017.0,excellent,4.0,79825.0,missing,other,Not Specified,sedan,fl,versa
+114154,123,2016.0,excellent,4.0,53406.0,missing,automatic,Not Specified,sedan,fl,hyundai
+114730,750,2002.0,fair,4.0,184000.0,missing,manual,rwd,hatchback,fl,dodge
+115328,141,2015.0,excellent,4.0,87021.0,missing,automatic,Not Specified,sedan,fl,corolla
+115331,138,2017.0,excellent,4.0,91729.0,missing,other,Not Specified,sedan,fl,toyota
+115333,141,2015.0,excellent,4.0,76862.0,missing,automatic,Not Specified,sedan,fl,200
+115482,8000,1968.0,fair,8.0,1111111.0,missing,automatic,rwd,Not Specified,fl,chevrolet
+115621,500,1959.0,Not Specified,6.0,1000000.0,missing,automatic,Not Specified,Not Specified,fl,ford
+115702,133,2018.0,excellent,4.0,67858.0,missing,other,Not Specified,sedan,fl,versa
+115703,114,2016.0,excellent,4.0,108460.0,missing,automatic,Not Specified,hatchback,fl,toyota
+120722,300,1990.0,salvage,6.0,100000.0,missing,other,Not Specified,Not Specified,ga,buick
+121099,350,1968.0,good,8.0,100000.0,missing,automatic,rwd,coupe,ga,dodge
+121710,600,2000.0,salvage,4.0,210000.0,missing,automatic,fwd,coupe,ga,accord
+122128,10497,1974.0,good,4.0,71000.0,missing,manual,rwd,convertible,ga,volkswagen
+122304,7500,1982.0,good,4.0,148000.0,missing,manual,fwd,pickup,ga,volkswagen
+122647,2000,1986.0,fair,6.0,100.0,missing,automatic,fwd,sedan,ga,pontiac
+123368,24000,1962.0,excellent,6.0,111000.0,missing,manual,rwd,pickup,ga,ford
+124240,875,1984.0,Not Specified,8.0,100000.0,missing,other,Not Specified,Not Specified,ga,chevrolet
+124732,3500,1987.0,good,8.0,65000.0,missing,automatic,rwd,hatchback,ga,camaro
+124812,8900,1980.0,fair,8.0,117690.0,missing,automatic,rwd,convertible,ga,mercedes-benz
+125919,4000,1997.0,good,8.0,360000.0,missing,automatic,rwd,SUV,ga,tahoe
+126173,12500,1983.0,good,8.0,50500.0,missing,automatic,fwd,truck,ga,silverado
+127249,1000,2012.0,fair,6.0,58100.0,missing,automatic,fwd,sedan,ga,challenger
+127434,2500,1983.0,fair,8.0,180000.0,missing,automatic,rwd,pickup,ga,sierra
+130422,650,1990.0,salvage,6.0,284000.0,missing,manual,Not Specified,Not Specified,hi,ranger
+131453,1200,1967.0,Not Specified,4.0,111111.0,missing,manual,Not Specified,Not Specified,id,volkswagen
+135352,500,2000.0,Not Specified,5.0,185000.0,missing,automatic,Not Specified,Not Specified,id,volvo
+135493,3000,1977.0,good,4.0,123456.0,missing,manual,rwd,coupe,id,toyota
+142631,4000,1996.0,fair,8.0,180000.0,missing,automatic,rwd,Not Specified,il,f350
+143328,400,2002.0,fair,6.0,220000.0,missing,automatic,fwd,Not Specified,il,impala
+144431,7800,2008.0,good,8.0,260000.0,missing,automatic,4wd,SUV,il,tahoe
+144549,450,2003.0,salvage,8.0,126651.0,missing,automatic,4wd,truck,il,dodge
+146933,1500,2013.0,salvage,4.0,115000.0,missing,automatic,Not Specified,wagon,il,jetta
+147909,4000,1924.0,good,4.0,100.0,missing,manual,rwd,truck,il,ford
+148195,800,2015.0,good,4.0,90000.0,missing,automatic,Not Specified,sedan,il,200
+148281,4500,1954.0,fair,8.0,60000.0,missing,automatic,fwd,sedan,il,pontiac
+149781,5300,1984.0,fair,8.0,121000.0,missing,automatic,4wd,Not Specified,il,ford
+151154,15000,1965.0,fair,6.0,1.0,missing,automatic,Not Specified,Not Specified,in,impala
+152234,700,2003.0,fair,6.0,177000.0,missing,automatic,4wd,SUV,in,chevrolet
+154860,1200,1999.0,Not Specified,6.0,182000.0,missing,automatic,Not Specified,Not Specified,in,explorer
+156808,2000,2006.0,Not Specified,8.0,142000.0,missing,automatic,Not Specified,Not Specified,ia,cadillac
+157084,4500,1954.0,fair,8.0,60000.0,missing,automatic,fwd,sedan,ia,pontiac
+158266,1500,2002.0,fair,6.0,122000.0,missing,automatic,Not Specified,SUV,ia,chevrolet
+159807,1700,2003.0,good,4.0,53000.0,missing,automatic,Not Specified,wagon,ia,focus
+160339,1500,1990.0,excellent,8.0,119300.0,missing,automatic,rwd,pickup,ia,chevrolet
+165526,4000,2015.0,fair,4.0,80000.0,missing,automatic,fwd,Not Specified,ks,forte
+165768,4500,1954.0,good,8.0,60000.0,missing,automatic,fwd,sedan,ks,pontiac
+168271,4500,1953.0,good,5.0,44.0,missing,manual,Not Specified,Not Specified,ks,jeep
+168548,4500,1953.0,good,5.0,44.0,missing,manual,Not Specified,Not Specified,ks,jeep
+169362,1000,2005.0,Not Specified,8.0,145242.0,missing,automatic,Not Specified,Not Specified,ks,f150
+170043,300,2000.0,fair,4.0,180000.0,missing,automatic,Not Specified,sedan,ks,passat
+170987,550,1985.0,Not Specified,8.0,48000.0,missing,automatic,Not Specified,Not Specified,ky,ford
+172413,3000,1976.0,Not Specified,6.0,55677.0,missing,automatic,Not Specified,Not Specified,ky,datsun
+172561,1000,1971.0,Not Specified,6.0,222222.0,missing,manual,Not Specified,Not Specified,ky,jeep
+173149,500,1996.0,Not Specified,6.0,258000.0,missing,manual,Not Specified,Not Specified,ky,ranger
+173155,1500,1966.0,salvage,6.0,80000.0,missing,automatic,rwd,coupe,ky,mustang
+173293,2300,2008.0,good,6.0,180000.0,missing,manual,fwd,other,ky,grand
+175058,27500,1930.0,good,4.0,46723.0,missing,manual,rwd,coupe,la,ford
+175218,4500,2013.0,like new,6.0,226000.0,missing,automatic,Not Specified,Not Specified,la,highlander
+176966,6500,2011.0,good,8.0,127000.0,missing,automatic,Not Specified,Not Specified,la,camaro
+177598,1900,1997.0,good,5.0,56000.0,missing,manual,fwd,Not Specified,la,buick
+177791,6500,1926.0,excellent,8.0,1000.0,missing,automatic,rwd,Not Specified,me,ford
+177819,5500,1991.0,good,6.0,150000.0,missing,manual,4wd,pickup,me,toyota
+177996,16000,1973.0,excellent,8.0,1000000.0,missing,automatic,rwd,Not Specified,me,corvette
+177998,14000,1957.0,good,8.0,33000.0,missing,automatic,rwd,sedan,me,ford
+178038,3000,1987.0,good,4.0,148000.0,missing,manual,4wd,truck,me,toyota
+178139,7000,1985.0,good,8.0,85134.0,missing,automatic,rwd,other,me,corvette
+178854,24000,1971.0,excellent,4.0,90000.0,missing,manual,rwd,coupe,me,volvo
+178961,1800,2004.0,Not Specified,6.0,330111.0,missing,manual,Not Specified,Not Specified,me,ford
+179677,7000,1985.0,good,8.0,85134.0,missing,automatic,rwd,other,me,corvette
+180014,18900,1963.0,excellent,6.0,76000.0,missing,automatic,rwd,convertible,me,chevrolet
+180165,6445,1929.0,fair,4.0,1223.0,missing,manual,rwd,Not Specified,me,ford
+180183,400,1989.0,Not Specified,6.0,23063.0,missing,automatic,rwd,Not Specified,me,ranger
+180195,2000,1964.0,Not Specified,8.0,10000.0,missing,automatic,Not Specified,coupe,me,ford
+180331,8500,1966.0,good,8.0,11061.0,missing,automatic,4wd,truck,me,chevrolet
+180343,45000,1955.0,excellent,8.0,90000.0,missing,automatic,rwd,convertible,me,ford
+180344,15500,1969.0,good,8.0,99999.0,missing,automatic,rwd,wagon,me,pontiac
+180491,1995,1990.0,Not Specified,4.0,260000.0,missing,automatic,Not Specified,Not Specified,me,volvo
+181171,38000,1991.0,Not Specified,8.0,100.0,missing,automatic,Not Specified,Not Specified,md,mustang
+181542,200,1995.0,Not Specified,4.0,64000.0,missing,automatic,fwd,Not Specified,md,dodge
+181669,1900,1994.0,fair,8.0,54000.0,missing,automatic,Not Specified,mini-van,md,ford
+182686,25000,1966.0,new,8.0,10.0,missing,automatic,Not Specified,offroad,md,chevrolet
+184165,6800,1972.0,Not Specified,8.0,75000.0,missing,automatic,Not Specified,Not Specified,md,chevrolet
+186672,37500,1934.0,Not Specified,8.0,5600.0,missing,automatic,Not Specified,Not Specified,ma,ford
+188576,2700,1968.0,Not Specified,6.0,500.0,missing,manual,4wd,truck,ma,jeep
+188702,1000,2013.0,Not Specified,8.0,42000.0,missing,other,Not Specified,Not Specified,ma,f150
+188960,950,1960.0,salvage,8.0,60000.0,missing,automatic,rwd,coupe,ma,pontiac
+189026,1000,1997.0,Not Specified,8.0,42000.0,missing,manual,Not Specified,Not Specified,ma,f250
+190602,7000,1977.0,fair,8.0,68723.0,missing,automatic,rwd,Not Specified,ma,pontiac
+192012,2000,1962.0,good,8.0,106234.0,missing,automatic,rwd,Not Specified,ma,ford
+192042,2500,1992.0,good,4.0,143500.0,missing,manual,4wd,SUV,ma,wrangler
+192230,5200,1960.0,Not Specified,8.0,1960.0,missing,automatic,Not Specified,Not Specified,ma,ford
+192247,1295,2006.0,good,4.0,170000.0,missing,automatic,fwd,coupe,ma,toyota
+192592,700,2006.0,fair,6.0,187000.0,missing,automatic,fwd,SUV,ma,escape
+192726,7200,1971.0,Not Specified,4.0,999999.0,missing,manual,Not Specified,Not Specified,ma,volkswagen
+193839,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+194797,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+195415,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+196849,2000,1984.0,Not Specified,8.0,30000.0,missing,automatic,rwd,coupe,mi,corvette
+196873,900,2008.0,fair,6.0,150000.0,missing,automatic,Not Specified,van,mi,town
+197964,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+198574,2000,1981.0,fair,4.0,78000.0,missing,manual,Not Specified,convertible,mi,fiat
+203087,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+203612,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+206210,9995,2014.0,Not Specified,6.0,124383.0,missing,automatic,Not Specified,Not Specified,mi,explorer
+206782,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+207152,1000,2006.0,good,6.0,200000.0,missing,automatic,fwd,sedan,mi,impala
+208229,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+208629,1750,1999.0,good,8.0,200000.0,missing,automatic,4wd,pickup,mi,f150
+208958,1900,1999.0,good,8.0,200000.0,missing,automatic,4wd,pickup,mi,f150
+209074,9995,2014.0,Not Specified,6.0,124383.0,missing,automatic,Not Specified,Not Specified,mi,explorer
+209490,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+210030,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+210257,6995,2012.0,Not Specified,8.0,215149.0,missing,automatic,Not Specified,Not Specified,mi,ford
+211529,7500,1962.0,good,6.0,50000.0,missing,automatic,Not Specified,Not Specified,mn,impala
+211645,1000,1995.0,Not Specified,6.0,175000.0,missing,automatic,Not Specified,Not Specified,mn,cherokee
+211699,4000,1937.0,fair,6.0,60000.0,missing,manual,rwd,truck,mn,chevrolet
+212197,2500,1968.0,salvage,8.0,1000000.0,missing,automatic,rwd,Not Specified,mn,buick
+212862,2200,2005.0,Not Specified,6.0,167000.0,missing,automatic,Not Specified,Not Specified,mn,mercury
+215211,250,2000.0,Not Specified,6.0,400000.0,missing,automatic,Not Specified,Not Specified,mn,taurus
+215214,1500,1947.0,Not Specified,6.0,76000.0,missing,other,Not Specified,Not Specified,mn,ford
+215663,950,1990.0,salvage,4.0,20000.0,missing,other,Not Specified,Not Specified,mn,volkswagen
+216400,900,1976.0,fair,8.0,109000.0,missing,automatic,4wd,pickup,mn,f150
+217319,6500,1941.0,fair,8.0,9999999.0,missing,manual,rwd,pickup,mn,ford
+218546,6000,2013.0,Not Specified,6.0,120753.0,missing,automatic,Not Specified,SUV,ms,cadillac
+221213,1200,1965.0,Not Specified,6.0,1000000.0,missing,manual,Not Specified,Not Specified,mo,ford
+221380,3250,1986.0,good,8.0,99999.0,missing,manual,rwd,truck,mo,chevrolet
+221610,800,1954.0,fair,8.0,100000.0,missing,automatic,Not Specified,sedan,mo,ford
+221660,2000,1957.0,Not Specified,8.0,999999.0,missing,other,Not Specified,Not Specified,mo,chevrolet
+221662,2000,1963.0,Not Specified,8.0,99999.0,missing,manual,Not Specified,Not Specified,mo,impala
+221663,4000,1966.0,Not Specified,8.0,99999.0,missing,manual,Not Specified,Not Specified,mo,pontiac
+221666,3800,1951.0,Not Specified,8.0,77777.0,missing,other,Not Specified,Not Specified,mo,cadillac
+221690,5000,1978.0,fair,8.0,1.0,missing,manual,4wd,truck,mo,chevrolet
+221736,750,2009.0,Not Specified,6.0,180000.0,missing,automatic,Not Specified,Not Specified,mo,impala
+221796,1800,1970.0,Not Specified,8.0,66000.0,missing,automatic,Not Specified,Not Specified,mo,pontiac
+222474,1900,1958.0,Not Specified,6.0,99999.0,missing,other,Not Specified,Not Specified,mo,chevrolet
+222475,2500,1966.0,Not Specified,6.0,99999.0,missing,automatic,Not Specified,Not Specified,mo,charger
+222476,6000,1923.0,Not Specified,8.0,11.0,missing,automatic,Not Specified,Not Specified,mo,ford
+222987,1600,1963.0,Not Specified,6.0,99999.0,missing,automatic,Not Specified,Not Specified,mo,ford
+225655,3250,1955.0,Not Specified,5.0,72543.0,missing,manual,Not Specified,Not Specified,mt,jeep
+225897,3450,1956.0,Not Specified,8.0,100000.0,missing,manual,Not Specified,Not Specified,mt,ford
+226715,11000,1981.0,good,8.0,62000.0,missing,automatic,Not Specified,truck,mt,gmc
+226899,4000,1958.0,Not Specified,6.0,12345.0,missing,automatic,Not Specified,Not Specified,mt,ford
+227906,2000,1956.0,Not Specified,8.0,82000.0,missing,manual,Not Specified,Not Specified,mt,ford
+227939,700,1964.0,fair,6.0,51000.0,missing,manual,rwd,pickup,mt,ford
+227962,1234,1974.0,good,6.0,12345.0,missing,manual,4wd,offroad,mt,jeep
+228037,3800,1966.0,Not Specified,8.0,100000.0,missing,automatic,Not Specified,Not Specified,mt,buick
+228220,2000,1956.0,Not Specified,8.0,82000.0,missing,manual,Not Specified,Not Specified,mt,ford
+228402,700,1964.0,fair,6.0,51000.0,missing,manual,rwd,pickup,mt,ford
+228407,1900,1961.0,good,6.0,47000.0,missing,automatic,rwd,wagon,mt,ford
+230116,3000,2003.0,fair,6.0,310000.0,missing,automatic,Not Specified,Not Specified,nc,ford
+230311,20000,1964.0,excellent,6.0,36804.0,missing,manual,4wd,SUV,nc,benz
+231252,500,1998.0,salvage,4.0,338214.0,missing,manual,4wd,Not Specified,nc,outback
+233280,7500,2007.0,good,8.0,197672.0,missing,automatic,4wd,truck,nc,chevrolet
+233445,600,1998.0,fair,8.0,100000.0,missing,automatic,rwd,pickup,nc,f150
+233674,2000,1993.0,good,6.0,195000.0,missing,automatic,rwd,van,nc,ford
+234617,2999,1967.0,Not Specified,8.0,42000.0,missing,automatic,Not Specified,Not Specified,nc,ford
+234786,300,1966.0,good,6.0,1.0,missing,automatic,Not Specified,sedan,nc,chevrolet
+234848,3500,2007.0,excellent,6.0,149133.0,missing,automatic,Not Specified,sedan,nc,cts
+235593,1400,2010.0,good,6.0,208000.0,missing,automatic,fwd,sedan,nc,mercury
+235815,3500,1966.0,Not Specified,6.0,200000.0,missing,other,Not Specified,Not Specified,nc,impala
+236032,800,2008.0,Not Specified,6.0,250000.0,missing,automatic,Not Specified,Not Specified,nc,pontiac
+236100,600,2003.0,good,4.0,260000.0,missing,manual,fwd,sedan,nc,civic
+237083,3200,1973.0,Not Specified,6.0,10000.0,missing,other,Not Specified,Not Specified,nc,challenger
+237701,2500,1964.0,fair,8.0,100000.0,missing,automatic,rwd,truck,nc,ford
+238861,20000,1964.0,excellent,6.0,36804.0,missing,manual,4wd,SUV,nc,benz
+239493,13000,2017.0,fair,6.0,71000.0,missing,automatic,fwd,other,nc,sentra
+240315,1000,1935.0,fair,6.0,0.0,missing,other,Not Specified,Not Specified,nc,chevrolet
+241917,1000,2003.0,fair,8.0,322000.0,missing,automatic,rwd,truck,nc,silverado
+241923,600,1999.0,salvage,4.0,225000.0,missing,other,Not Specified,Not Specified,nc,accord
+242969,5000,2006.0,good,6.0,190000.0,missing,automatic,4wd,SUV,nc,porsche
+242981,3500,2007.0,good,6.0,139550.0,missing,automatic,rwd,sedan,nc,cts
+244232,8500,1966.0,good,6.0,71000.0,missing,automatic,Not Specified,Not Specified,nc,mustang
+245064,1000,1978.0,salvage,8.0,180000.0,missing,automatic,4wd,pickup,nc,f150
+245808,1700,1965.0,Not Specified,8.0,114000.0,missing,automatic,Not Specified,convertible,ne,ford
+246081,600,1951.0,Not Specified,8.0,12345.0,missing,manual,Not Specified,Not Specified,ne,dodge
+246589,1000,2012.0,Not Specified,6.0,144000.0,missing,automatic,Not Specified,Not Specified,nv,mercedes-benz
+247094,8500,2016.0,excellent,4.0,10000.0,missing,manual,rwd,offroad,nv,volkswagen
+247346,2000,1962.0,Not Specified,8.0,100900.0,missing,automatic,Not Specified,Not Specified,nv,chevrolet
+247763,9995,1953.0,Not Specified,8.0,85000.0,missing,automatic,Not Specified,Not Specified,nv,chevrolet
+248741,3395,1948.0,Not Specified,6.0,80000.0,missing,manual,Not Specified,Not Specified,nv,ford
+249135,2000,1962.0,Not Specified,8.0,100900.0,missing,automatic,Not Specified,Not Specified,nv,chevrolet
+249749,2000,2011.0,fair,4.0,179000.0,missing,automatic,fwd,sedan,nj,camry
+252954,2900,1992.0,good,8.0,61000.0,missing,automatic,rwd,coupe,nj,benz
+253055,1500,1963.0,Not Specified,8.0,100343.0,missing,automatic,Not Specified,Not Specified,nj,ford
+253467,5400,1975.0,fair,8.0,1000.0,missing,automatic,Not Specified,Not Specified,nj,benz
+255519,700,1995.0,good,4.0,115000.0,missing,automatic,fwd,sedan,nj,corolla
+257899,1500,2012.0,salvage,4.0,74156.0,missing,automatic,Not Specified,Not Specified,nj,accord
+259966,2500,1964.0,good,8.0,24120.0,missing,manual,Not Specified,Not Specified,nm,ford
+261382,700,2004.0,salvage,8.0,135000.0,missing,manual,4wd,Not Specified,nm,expedition
+261447,2500,1970.0,Not Specified,8.0,12345.0,missing,automatic,Not Specified,Not Specified,nm,dodge
+261450,1500,1988.0,good,8.0,100000.0,missing,manual,rwd,other,nm,gmc
+261529,3000,1949.0,fair,8.0,50000.0,missing,manual,rwd,truck,nm,chevrolet
+261698,4500,1928.0,good,7.0,888888.0,missing,other,Not Specified,Not Specified,nm,ford
+262198,1000,1973.0,Not Specified,8.0,999999.0,missing,automatic,Not Specified,Not Specified,nm,chevrolet
+262271,1800,1976.0,Not Specified,8.0,42000.0,missing,automatic,Not Specified,Not Specified,nm,chevrolet
+262338,4800,1949.0,good,8.0,10000000.0,missing,manual,rwd,pickup,nm,ford
+262361,4000,1967.0,good,8.0,9000.0,missing,other,rwd,Not Specified,nm,chevrolet
+262770,22000,1982.0,excellent,4.0,13000.0,missing,manual,fwd,pickup,nm,volkswagen
+263514,1400,2005.0,fair,6.0,137000.0,missing,automatic,Not Specified,Not Specified,ny,buick
+263661,1000,1973.0,Not Specified,8.0,60000.0,missing,manual,rwd,Not Specified,ny,mustang
+264181,1800,1956.0,Not Specified,6.0,11265.0,missing,manual,Not Specified,Not Specified,ny,chevrolet
+264896,800,1967.0,Not Specified,6.0,12345.0,missing,automatic,Not Specified,Not Specified,ny,mustang
+269896,1900,1947.0,Not Specified,5.0,10000.0,missing,manual,Not Specified,Not Specified,ny,jeep
+270163,2200,2005.0,good,4.0,82000.0,missing,manual,4wd,Not Specified,ny,outlander
+270297,1800,1956.0,Not Specified,6.0,11265.0,missing,manual,Not Specified,Not Specified,ny,chevrolet
+270619,1900,1947.0,Not Specified,5.0,10000.0,missing,manual,Not Specified,Not Specified,ny,jeep
+271227,1900,1947.0,Not Specified,5.0,10000.0,missing,manual,Not Specified,Not Specified,ny,jeep
+271362,35000,1958.0,Not Specified,6.0,51320.0,missing,automatic,Not Specified,Not Specified,ny,cadillac
+271363,25000,1932.0,Not Specified,8.0,17355.0,missing,manual,Not Specified,Not Specified,ny,chevrolet
+271365,30000,1963.0,Not Specified,8.0,70606.0,missing,automatic,Not Specified,Not Specified,ny,ford
+274656,2000,2000.0,good,6.0,180000.0,missing,automatic,4wd,SUV,ny,grand
+276335,1800,2008.0,good,6.0,132000.0,missing,automatic,4wd,sedan,ny,cadillac
+277246,1000,1996.0,salvage,4.0,114000.0,missing,automatic,Not Specified,Not Specified,ny,camry
+277710,9500,1995.0,good,4.0,10000.0,missing,manual,rwd,convertible,ny,mazda
+277728,1100,1958.0,fair,6.0,100000.0,missing,manual,4wd,pickup,ny,jeep
+277769,3400,2004.0,good,8.0,200000.0,missing,automatic,4wd,SUV,ny,yukon
+278072,1875,2001.0,like new,6.0,120000.0,missing,automatic,fwd,sedan,ny,taurus
+278080,3500,2004.0,Not Specified,4.0,192230.0,missing,automatic,Not Specified,Not Specified,ny,camry
+282928,2900,1970.0,fair,8.0,62512.0,missing,automatic,rwd,coupe,nh,chevrolet
+283178,1500,1994.0,fair,4.0,187000.0,missing,manual,4wd,SUV,nh,wrangler
+283276,9600,1986.0,good,8.0,140000.0,missing,automatic,rwd,coupe,nh,buick
+283406,3900,2003.0,fair,8.0,287000.0,missing,automatic,4wd,truck,nh,silverado
+283514,9999,1964.0,excellent,8.0,96000.0,missing,automatic,rwd,Not Specified,nh,ford
+284100,5000,1980.0,good,8.0,123456.0,missing,manual,Not Specified,Not Specified,nh,camaro
+284627,12345,1986.0,excellent,6.0,86000.0,missing,manual,4wd,SUV,nh,jeep
+284725,10500,1998.0,good,6.0,208000.0,missing,automatic,4wd,pickup,nh,2500
+284774,1800,2004.0,Not Specified,6.0,330111.0,missing,manual,Not Specified,Not Specified,nh,ford
+285021,3250,1986.0,good,8.0,5000.0,missing,automatic,rwd,Not Specified,nh,jaguar
+285069,5600,1979.0,Not Specified,8.0,68000.0,missing,automatic,rwd,sedan,nh,town
+285135,5500,1966.0,fair,6.0,40000.0,missing,automatic,rwd,convertible,nh,mustang
+285379,2900,1965.0,fair,8.0,80943.0,missing,automatic,Not Specified,Not Specified,nh,chevrolet
+285380,1300,1971.0,fair,8.0,81000.0,missing,automatic,fwd,convertible,nh,cadillac
+285395,5000,1952.0,fair,6.0,100000.0,missing,manual,Not Specified,pickup,nh,dodge
+285561,7000,1976.0,fair,8.0,100000.0,missing,automatic,rwd,truck,nh,chevrolet
+285737,1234,1970.0,new,8.0,44444.0,missing,manual,Not Specified,Not Specified,nh,dodge
+286854,11500,1924.0,good,4.0,1000.0,missing,manual,rwd,other,oh,ford
+289853,2701,2001.0,good,4.0,136000.0,missing,manual,Not Specified,coupe,oh,accord
+290805,500,1999.0,fair,8.0,175000.0,missing,automatic,fwd,sedan,oh,buick
+294803,22000,1977.0,excellent,8.0,1000.0,missing,manual,rwd,hatchback,oh,chevrolet
+301801,14995,2019.0,Not Specified,4.0,14000.0,missing,automatic,fwd,coupe,oh,civic
+302197,500,1971.0,fair,8.0,1.0,missing,automatic,rwd,Not Specified,oh,mustang
+302671,39000,1970.0,Not Specified,8.0,123456.0,missing,automatic,Not Specified,Not Specified,oh,chevrolet
+304336,500,2007.0,good,4.0,18579.0,missing,automatic,fwd,sedan,ok,chevrolet
+306096,6000,1964.0,Not Specified,8.0,72812.0,missing,manual,Not Specified,Not Specified,ok,chevrolet
+306196,49000,1998.0,Not Specified,8.0,100.0,missing,automatic,Not Specified,Not Specified,ok,camaro
+307815,200,2005.0,salvage,4.0,100000.0,missing,automatic,fwd,coupe,ok,chevrolet
+308492,300,1998.0,Not Specified,4.0,248000.0,missing,automatic,Not Specified,Not Specified,ok,accord
+309694,1000,1994.0,good,8.0,150000.0,missing,automatic,Not Specified,Not Specified,ok,camaro
+309777,2000,2004.0,like new,6.0,2000.0,missing,other,Not Specified,Not Specified,ok,honda
+311382,4500,2008.0,good,8.0,110000.0,missing,automatic,4wd,Not Specified,or,f250
+312162,8600,2008.0,good,6.0,117000.0,missing,automatic,fwd,SUV,or,rav4
+312633,3000,1995.0,Not Specified,6.0,180000.0,missing,automatic,4wd,SUV,or,4runner
+313198,2000,2006.0,salvage,8.0,182000.0,missing,automatic,4wd,SUV,or,jeep
+314137,1000,1981.0,fair,4.0,72000.0,missing,manual,Not Specified,Not Specified,or,volkswagen
+315735,2500,2008.0,like new,6.0,109825.0,missing,automatic,Not Specified,Not Specified,or,impala
+316282,4950,1997.0,good,8.0,999999.0,missing,automatic,rwd,coupe,or,camaro
+316821,700,2006.0,fair,6.0,127527.0,missing,automatic,fwd,other,or,sentra
+316921,1500,2001.0,good,4.0,152236.0,missing,automatic,Not Specified,Not Specified,or,saturn
+317601,1500,2003.0,salvage,6.0,222522.0,missing,automatic,4wd,SUV,or,benz
+318934,1500,1967.0,fair,6.0,100000.0,missing,manual,rwd,van,or,ford
+319514,1500,1990.0,fair,4.0,54987.0,missing,manual,rwd,pickup,or,nissan
+319935,1000,2001.0,Not Specified,6.0,212798.0,missing,manual,Not Specified,Not Specified,or,nissan
+320022,650,2007.0,good,4.0,223380.0,missing,automatic,Not Specified,Not Specified,or,sorento
+320110,9500,1929.0,good,8.0,35000.0,missing,manual,rwd,other,or,dodge
+320211,2500,2008.0,good,8.0,190000.0,missing,automatic,Not Specified,Not Specified,or,expedition
+320888,4500,1998.0,good,6.0,300000.0,missing,manual,4wd,truck,or,tacoma
+322029,3700,2009.0,fair,4.0,1362936.0,missing,automatic,fwd,SUV,or,focus
+322333,4495,1993.0,good,6.0,149000.0,missing,automatic,4wd,Not Specified,or,chevrolet
+322655,3950,2016.0,good,4.0,102900.0,missing,automatic,Not Specified,sedan,or,elantra
+324667,2975,1965.0,fair,8.0,72000.0,missing,manual,rwd,truck,or,ford
+324684,19950,2014.0,Not Specified,8.0,77191.0,missing,automatic,4wd,Not Specified,or,2500
+325656,1700,2000.0,good,4.0,100000.0,missing,manual,fwd,hatchback,or,golf
+328132,7995,1979.0,good,8.0,100000.0,missing,automatic,rwd,coupe,pa,lincoln
+329964,35000,1958.0,Not Specified,6.0,51320.0,missing,automatic,Not Specified,Not Specified,pa,cadillac
+329965,30000,1968.0,Not Specified,6.0,12067.0,missing,automatic,Not Specified,Not Specified,pa,pontiac
+331202,2500,2017.0,fair,4.0,100010.0,missing,automatic,fwd,sedan,pa,altima
+333592,1500,1999.0,fair,4.0,198000.0,missing,automatic,fwd,SUV,pa,mercury
+334938,7000,1987.0,fair,4.0,183010.0,missing,automatic,rwd,pickup,pa,jeep
+335121,17500,1967.0,good,8.0,0.0,missing,automatic,rwd,coupe,pa,camaro
+335447,2000,1947.0,Not Specified,8.0,123456.0,missing,manual,Not Specified,Not Specified,pa,ford
+335637,800,2007.0,fair,6.0,144000.0,missing,automatic,4wd,sedan,pa,a6
+336145,3000,1955.0,Not Specified,8.0,111111.0,missing,other,Not Specified,Not Specified,pa,ford
+342241,14000,1987.0,good,8.0,1.0,missing,automatic,rwd,Not Specified,ri,silverado
+342424,1800,2004.0,Not Specified,6.0,330111.0,missing,manual,Not Specified,Not Specified,ri,ford
+342516,9000,1978.0,good,8.0,7000.0,missing,automatic,Not Specified,Not Specified,ri,corvette
+342573,4000,1963.0,good,6.0,90000.0,missing,automatic,rwd,coupe,ri,chevrolet
+342810,9500,1938.0,fair,8.0,123123.0,missing,manual,fwd,convertible,ri,expedition
+343170,8500,1981.0,excellent,8.0,131000.0,missing,automatic,Not Specified,convertible,ri,benz
+343183,11900,1970.0,excellent,8.0,10000.0,missing,manual,4wd,offroad,ri,jeep
+343213,750,2005.0,good,6.0,180000.0,missing,automatic,4wd,SUV,ri,chevrolet
+343510,2500,1987.0,fair,8.0,140000.0,missing,automatic,rwd,truck,ri,dodge
+343606,4500,1993.0,good,6.0,45040.0,missing,other,rwd,hatchback,ri,mustang
+343669,12500,1996.0,good,8.0,71181.0,missing,automatic,4wd,SUV,ri,ford
+343681,5000,1997.0,excellent,8.0,132000.0,missing,automatic,4wd,SUV,ri,tahoe
+343718,3000,2001.0,good,8.0,278000.0,missing,automatic,4wd,SUV,ri,yukon
+343838,25000,1932.0,Not Specified,8.0,17355.0,missing,manual,Not Specified,Not Specified,ri,chevrolet
+347555,2200,1963.0,fair,6.0,100000.0,missing,manual,rwd,pickup,sc,chevrolet
+352378,12000,1981.0,good,8.0,500.0,missing,automatic,fwd,SUV,tn,chevrolet
+352588,500,1982.0,fair,4.0,12344.0,missing,manual,Not Specified,truck,tn,ranger
+355414,900,2005.0,Not Specified,6.0,219000.0,missing,automatic,Not Specified,Not Specified,tn,impala
+356256,700,2006.0,salvage,4.0,1.0,missing,automatic,Not Specified,Not Specified,tn,prius
+356504,1700,2007.0,salvage,6.0,207000.0,missing,automatic,rwd,SUV,tn,4runner
+356957,5000,1989.0,salvage,6.0,200000.0,missing,automatic,4wd,Not Specified,tn,dodge
+356989,400,2000.0,salvage,4.0,200000.0,missing,automatic,fwd,Not Specified,tn,sentra
+357610,49000,1998.0,Not Specified,8.0,10.0,missing,automatic,Not Specified,Not Specified,tn,camaro
+357611,49000,1998.0,Not Specified,8.0,10.0,missing,automatic,Not Specified,Not Specified,tn,camaro
+358083,2200,1964.0,Not Specified,8.0,9999.0,missing,manual,Not Specified,Not Specified,tn,chevrolet
+359142,3000,1956.0,good,4.0,1753.0,missing,manual,4wd,offroad,tn,jeep
+359155,5500,1958.0,fair,8.0,80000.0,missing,manual,rwd,Not Specified,tn,dodge
+360303,7000,1971.0,Not Specified,8.0,170000.0,missing,automatic,Not Specified,Not Specified,tn,chevrolet
+360837,1234,2012.0,Not Specified,6.0,100000.0,missing,automatic,Not Specified,Not Specified,tn,ford
+362805,10000,1999.0,good,8.0,156000.0,missing,automatic,4wd,truck,tx,f250
+362892,30000,1964.0,Not Specified,8.0,67000.0,missing,manual,Not Specified,Not Specified,tx,corvette
+363054,30000,1964.0,Not Specified,8.0,67000.0,missing,manual,Not Specified,Not Specified,tx,corvette
+363083,7000,1947.0,Not Specified,8.0,12345.0,missing,manual,Not Specified,Not Specified,tx,pontiac
+364133,700,2001.0,fair,4.0,178000.0,missing,other,Not Specified,Not Specified,tx,chrysler
+364344,771,1986.0,Not Specified,8.0,85000.0,missing,manual,4wd,Not Specified,tx,f250
+364390,350,2004.0,good,4.0,200000.0,missing,automatic,fwd,SUV,tx,mazda
+365697,800,2003.0,salvage,6.0,150000.0,missing,automatic,rwd,sedan,tx,infiniti
+366029,2500,2007.0,good,8.0,190000.0,missing,automatic,4wd,SUV,tx,jeep
+366392,1500,1957.0,Not Specified,6.0,40000.0,missing,other,Not Specified,Not Specified,tx,chevrolet
+366406,2700,2004.0,excellent,8.0,40000.0,missing,automatic,fwd,other,tx,cadillac
+366407,2800,2013.0,like new,4.0,80000.0,missing,manual,rwd,convertible,tx,cooper
+366908,1500,1998.0,excellent,8.0,200234.0,missing,automatic,Not Specified,Not Specified,tx,silverado
+366914,1000,2005.0,Not Specified,6.0,200000.0,missing,automatic,Not Specified,Not Specified,tx,chevrolet
+366923,1000,2010.0,good,8.0,1500.0,missing,automatic,Not Specified,Not Specified,tx,silverado
+368645,3500,2013.0,new,4.0,127000.0,missing,automatic,Not Specified,Not Specified,tx,malibu
+368897,2650,1948.0,Not Specified,8.0,1.0,missing,automatic,rwd,truck,tx,ford
+369263,3200,2017.0,excellent,4.0,99200.0,missing,automatic,fwd,sedan,tx,hyundai
+369905,2500,2003.0,fair,4.0,162708.0,missing,automatic,fwd,coupe,tx,mitsubishi
+370147,3500,1986.0,Not Specified,8.0,100000.0,missing,manual,rwd,pickup,tx,chevrolet
+370148,11500,1978.0,Not Specified,8.0,9284.0,missing,automatic,4wd,pickup,tx,chevrolet
+370391,1500,1993.0,excellent,6.0,270000.0,missing,automatic,4wd,SUV,tx,explorer
+370410,10000,1928.0,good,4.0,58997.0,missing,manual,rwd,truck,tx,chevrolet
+370581,2000,2009.0,salvage,6.0,230000.0,missing,automatic,Not Specified,SUV,tx,pilot
+370746,5500,1969.0,good,6.0,12458.0,missing,manual,4wd,offroad,tx,jeep
+371768,2000,2009.0,good,6.0,120000.0,missing,automatic,rwd,coupe,tx,audi
+372365,4500,1965.0,fair,6.0,12345.0,missing,manual,4wd,offroad,tx,toyota
+373966,1600,2004.0,Not Specified,6.0,122000.0,missing,automatic,Not Specified,Not Specified,tx,odyssey
+374560,2750,1957.0,Not Specified,8.0,999999.0,missing,other,Not Specified,Not Specified,tx,ford
+375466,2000,1957.0,Not Specified,8.0,1.0,missing,other,Not Specified,Not Specified,tx,ford
+376619,3500,1949.0,Not Specified,6.0,75000.0,missing,other,Not Specified,Not Specified,tx,chevrolet
+376911,750,1993.0,fair,3.0,210000.0,missing,other,4wd,SUV,tx,4runner
+377105,2500,1993.0,good,8.0,268000.0,missing,automatic,4wd,Not Specified,tx,suburban
+377235,3500,2007.0,good,6.0,220000.0,missing,automatic,fwd,sedan,tx,bmw
+380094,2000,1985.0,fair,6.0,12000.0,missing,automatic,fwd,sedan,tx,cadillac
+380335,4200,1966.0,Not Specified,8.0,1111111.0,missing,manual,Not Specified,convertible,tx,mustang
+380427,123,1978.0,fair,5.0,12345.0,missing,automatic,rwd,coupe,tx,benz
+380785,8500,1963.0,good,6.0,50000.0,missing,manual,4wd,offroad,tx,benz
+381696,3000,2005.0,fair,8.0,150000.0,missing,automatic,rwd,pickup,tx,chevrolet
+381871,3800,1968.0,Not Specified,8.0,38000.0,missing,manual,Not Specified,Not Specified,tx,chevrolet
+383279,2000,2003.0,fair,8.0,199500.0,missing,automatic,Not Specified,Not Specified,tx,expedition
+383960,3500,1991.0,fair,4.0,100000.0,missing,manual,rwd,convertible,tx,mazda
+384332,2700,2002.0,good,3.0,167444.0,missing,automatic,fwd,other,tx,grand
+384524,2200,1980.0,Not Specified,6.0,70000.0,missing,manual,Not Specified,Not Specified,tx,jeep
+385029,2100,1969.0,fair,8.0,100000.0,missing,automatic,rwd,truck,tx,ford
+386879,1500,2004.0,Not Specified,8.0,209000.0,missing,automatic,Not Specified,Not Specified,vt,f250
+386894,2900,2003.0,good,6.0,67500.0,missing,automatic,fwd,sedan,vt,dodge
+386938,2900,2003.0,good,6.0,67500.0,missing,automatic,fwd,sedan,vt,dodge
+386962,2900,2005.0,good,6.0,149000.0,missing,automatic,4wd,SUV,vt,grand
+386963,2000,1968.0,fair,6.0,50000.0,missing,manual,4wd,Not Specified,vt,ford
+387055,850,2005.0,good,6.0,113000.0,missing,automatic,fwd,sedan,vt,malibu
+387142,12000,1930.0,Not Specified,8.0,65000.0,missing,manual,Not Specified,Not Specified,vt,chevrolet
+387146,21500,1986.0,good,4.0,111000.0,missing,manual,4wd,wagon,vt,rover
+387223,3700,2002.0,good,6.0,270000.0,missing,manual,4wd,Not Specified,vt,tacoma
+387408,1800,2004.0,Not Specified,6.0,330111.0,missing,manual,Not Specified,Not Specified,vt,ford
+387410,4500,1982.0,Not Specified,6.0,18000.0,missing,automatic,Not Specified,Not Specified,vt,impala
+387542,1100,2002.0,fair,5.0,219352.0,missing,automatic,fwd,sedan,vt,volvo
+387548,18500,1969.0,excellent,8.0,19178.0,missing,manual,Not Specified,Not Specified,vt,f250
+387554,3500,1969.0,good,6.0,58000.0,missing,manual,Not Specified,Not Specified,vt,rover
+387652,3000,2001.0,excellent,8.0,203000.0,missing,automatic,4wd,SUV,vt,tahoe
+387912,3800,1969.0,good,6.0,58000.0,missing,manual,Not Specified,Not Specified,vt,rover
+388367,12500,1983.0,Not Specified,8.0,55000.0,missing,automatic,Not Specified,Not Specified,vt,mercedes-benz
+388922,500,2002.0,good,6.0,150000.0,missing,automatic,4wd,sedan,vt,a4
+389157,3200,2006.0,good,4.0,128000.0,missing,automatic,fwd,coupe,vt,camry
+389216,3600,2010.0,good,4.0,157687.0,missing,automatic,Not Specified,hatchback,vt,mazda
+392036,2000,1966.0,Not Specified,8.0,1.0,missing,manual,Not Specified,Not Specified,va,ford
+392453,2000,2005.0,good,6.0,208000.0,missing,automatic,rwd,sedan,va,bmw
+392842,3500,2007.0,excellent,6.0,149133.0,missing,automatic,Not Specified,sedan,va,cts
+392892,500,2001.0,fair,4.0,199000.0,missing,automatic,Not Specified,coupe,va,toyota
+397182,1200,1960.0,Not Specified,8.0,100000.0,missing,automatic,Not Specified,van,va,chevrolet
+398106,1500,1959.0,fair,8.0,100000.0,missing,automatic,rwd,other,va,ford
+403933,1200,1944.0,fair,8.0,100000.0,missing,manual,4wd,offroad,wa,jeep
+406049,1000,1956.0,good,8.0,42.0,missing,manual,rwd,Not Specified,wa,ford
+408343,10000,1969.0,Not Specified,4.0,100.0,missing,other,Not Specified,Not Specified,wa,dodge
+410315,3500,1983.0,good,8.0,105000.0,missing,manual,4wd,Not Specified,wa,f350
+413625,350,1977.0,good,8.0,150000.0,missing,manual,4wd,truck,wa,f150
+413866,5600,2006.0,salvage,8.0,184000.0,missing,automatic,4wd,pickup,wv,sierra
+415230,2500,2010.0,fair,4.0,104665.0,missing,automatic,Not Specified,sedan,wi,elantra
+415264,2500,2010.0,fair,4.0,104665.0,missing,automatic,Not Specified,sedan,wi,elantra
+416858,450,2001.0,Not Specified,8.0,400000.0,missing,automatic,Not Specified,Not Specified,wi,f150
+417631,600,1963.0,Not Specified,8.0,1000000.0,missing,manual,Not Specified,Not Specified,wi,chevrolet
+424398,18500,1929.0,Not Specified,4.0,29.0,missing,automatic,Not Specified,Not Specified,wi,ford
+425633,3000,1989.0,fair,8.0,123456.0,missing,manual,4wd,Not Specified,wi,f250
+425993,8500,1974.0,good,6.0,19894.0,missing,manual,4wd,other,wi,jeep
