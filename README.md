@@ -53,6 +53,37 @@ I have used following two Matrics for evaluation.
 
 Both metrics together provide a comprehensive view of the model’s effectiveness and areas for potential improvement, helping guide further refinements to enhance accuracy.
 
+### Important observations about Coefficients and Findings
+- All coefficents sorted in descending order are located at [Download ridge_coefficients.csv](data/ridge_coefficients.csv)
+1. **Prominent Positive Influencers:**
+   - **High-Value Models:** Top models like `simplified_model_5500`, `simplified_model_911`, and `simplified_model_c10` show the highest positive coefficients, significantly boosting the model’s predicted value, likely indicating premium or highly sought-after vehicle models.
+
+2. **Negative and Positive Dynamics in Age and Odometer:**
+   - **Negative Coefficients for car_age and odometer:** Both `car_age` (-14713.42) and `odometer` (-5627.37) have negative coefficients, suggesting that as vehicles age or accumulate mileage, their value or some other positive attribute (like desirability or reliability) typically decreases.
+   - **Positive Coefficients for Squared Terms (`car_age^2` and `odometer^2`):** The positive coefficients for `car_age^2` (10221.45) and `odometer^2` (4905.70) indicate a non-linear relationship. This could suggest diminishing negative impacts or plateauing depreciation rates as age or mileage increases beyond certain thresholds, possibly reflecting collector value stabilization or decreased rate of additional depreciation.
+
+3. **Utility and Specialized Vehicles:**
+   - Vehicles designed for specific functions or heavy-duty use such as `simplified_model_f650`, `simplified_model_f750` show substantial positive coefficients, highlighting their valued attributes in utility or niche markets.
+
+4. **Luxury and High-Performance Vehicles:**
+   - Models like `simplified_model_tesla`, `simplified_model_porsche`, and `simplified_model_corvette` feature prominently with positive coefficients, indicating their strong market value and desirability.
+
+5. **Impact of Vehicle Condition:**
+   - The condition categories like `condition_new` (+1784.90) positively influence the model, while `condition_salvage` (-1446.87) and `condition_fair` (-2249.72) have negative impacts, reflecting their effect on vehicle valuation.
+
+6. **Transmission and Drive Type:**
+   - **Transmission:** `transmission_other` has a small positive effect (+1612.61), whereas `transmission_manual` and `transmission_automatic` show negative coefficients, possibly reflecting market preferences or availability.
+   - **Drive Type:** `drive_4wd` has a positive effect (+1729.30), supporting the value added by four-wheel drive capabilities, especially in certain geographical or usage contexts.
+
+7. **Geographical Influences:**
+   - States like `state_wa`, `state_hi`, and `state_mt` show positive coefficients, possibly reflecting regional preferences, economic conditions, or the suitability of certain vehicle types in these regions.
+
+8. **Effect of Car Types:**
+   - Specific car types like `type_convertible`, `type_coupe`, and `type_offroad` have positive coefficients, indicating higher value or preferences for these styles, whereas `type_sedan` and `type_hatchback` show negative impacts, potentially due to oversaturation or declining popularity.
+
+9. **Overall Model Considerations:**
+   - The wide range of coefficients across different car models, conditions, and other features highlights the complexity of vehicle valuation and the multifaceted nature of what drives vehicle market dynamics.
+
 
 ## Conclusion and Further Recommendations
 
