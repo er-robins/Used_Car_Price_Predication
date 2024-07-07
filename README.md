@@ -18,12 +18,14 @@ In this application, we explore a dataset from kaggle. The original dataset cont
 
 In this project, I employed various regression modeling techniques to predict used car prices. The models evaluated include `Linear Regression` and `Ridge Regression` with `polynomial features of Degree 2`. I also tried `Lasso Regression` and `Sequential Feature Selection`, though due to high computation cost they werent explored in detail, they can be good areas to expore in the future. Each model was trained and evaluated using a train/test split, followed by cross-validation and hyperparameter tuning using GridSearchCV to optimize performance. 
 
-Among these, the Ridge Regression model demonstrated the best performance with a `Root Mean Squared Error (RMSE) of 6195.0590` and an` R-squared (R²) value of 0.7640`. 
+Among these, the Ridge Regression model demonstrated the best performance with a `Root Mean Squared Error (RMSE) of 5447.9089` and an` R-squared (R²) value of 0.8170`. 
 
 To see the interactive plot of actual vs. predicted values, please click the link below:
-[Actual vs. Predicted Values](https://github.com/er-robins/Used_Car_Price_Predication/blob/main/images/actual_vs_predicted.html)
+[Actual vs. Predicted Values](https://github.com/er-robins/Used_Car_Price_Predication/blob/main/images/Actual_vs_Prediction.png)
 
-![Full Coefficient list](data/ridge_coefficients.csv)
+To see full coefficient list :
+[Full Coefficient list](https://github.com/er-robins/Used_Car_Price_Predication/blob/main/data/ridge_coefficients.csv)
+
 
 ### Evaluation Matric Choice :
 
@@ -59,8 +61,8 @@ Both metrics together provide a comprehensive view of the model’s effectivenes
    - **High-Value Models:** Top models like `simplified_model_5500`, `simplified_model_911`, and `simplified_model_c10` show the highest positive coefficients, significantly boosting the model’s predicted value, likely indicating premium or highly sought-after vehicle models.
 
 2. **Negative and Positive Dynamics in Age and Odometer:**
-   - **Negative Coefficients for car_age and odometer:** Both `car_age` (-14713.42) and `odometer` (-5627.37) have negative coefficients, suggesting that as vehicles age or accumulate mileage, their value or some other positive attribute (like desirability or reliability) typically decreases.
-   - **Positive Coefficients for Squared Terms (`car_age^2` and `odometer^2`):** The positive coefficients for `car_age^2` (10221.45) and `odometer^2` (4905.70) indicate a non-linear relationship. This could suggest diminishing negative impacts or plateauing depreciation rates as age or mileage increases beyond certain thresholds, possibly reflecting collector value stabilization or decreased rate of additional depreciation.
+   - **Negative Coefficients for car_age and odometer:** Both `car_age` (-17180.42) and `odometer` (-3992.08) have negative coefficients, suggesting that as vehicles age or accumulate mileage, their value or some other positive attribute (like desirability or reliability) typically decreases.
+   - **Positive Coefficients for Polynomial Terms (`car_age^2` and `odometer^3`):** The positive coefficients for `car_age^2` (12729) and `odometer^3` (1430) indicate a non-linear relationship. This could suggest diminishing negative impacts or plateauing depreciation rates as age or mileage increases beyond certain thresholds, possibly reflecting collector value stabilization or decreased rate of additional depreciation.
 
 3. **Utility and Specialized Vehicles:**
    - Vehicles designed for specific functions or heavy-duty use such as `simplified_model_f650`, `simplified_model_f750` show substantial positive coefficients, highlighting their valued attributes in utility or niche markets.
@@ -69,11 +71,11 @@ Both metrics together provide a comprehensive view of the model’s effectivenes
    - Models like `simplified_model_tesla`, `simplified_model_porsche`, and `simplified_model_corvette` feature prominently with positive coefficients, indicating their strong market value and desirability.
 
 5. **Impact of Vehicle Condition:**
-   - The condition categories like `condition_new` (+1784.90) positively influence the model, while `condition_salvage` (-1446.87) and `condition_fair` (-2249.72) have negative impacts, reflecting their effect on vehicle valuation.
+   - The condition categories like `condition_new` (+624.09) positively influence the model, while `condition_salvage` (-1332.87) and `condition_fair` (-2172.72) have negative impacts, reflecting their effect on vehicle valuation.
 
 6. **Transmission and Drive Type:**
-   - **Transmission:** `transmission_other` has a small positive effect (+1612.61), whereas `transmission_manual` and `transmission_automatic` show negative coefficients, possibly reflecting market preferences or availability.
-   - **Drive Type:** `drive_4wd` has a positive effect (+1729.30), supporting the value added by four-wheel drive capabilities, especially in certain geographical or usage contexts.
+   - **Transmission:** `transmission_manual` has a  positive effect (+987.31), whereas `transmission_Not_Specified` and `transmission_automatic` show negative coefficients, possibly reflecting market preferences or availability.
+   - **Drive Type:** `drive_4wd` has a positive effect (+1724.30), supporting the value added by four-wheel drive capabilities, especially in certain geographical or usage contexts.
 
 7. **Geographical Influences:**
    - States like `state_wa`, `state_hi`, and `state_mt` show positive coefficients, possibly reflecting regional preferences, economic conditions, or the suitability of certain vehicle types in these regions.
@@ -84,16 +86,15 @@ Both metrics together provide a comprehensive view of the model’s effectivenes
 9. **Overall Model Considerations:**
    - The wide range of coefficients across different car models, conditions, and other features highlights the complexity of vehicle valuation and the multifaceted nature of what drives vehicle market dynamics.
 
-
 ## Conclusion and Further Recommendations
 
-Our analysis utilizing Ridge regression has yielded robust results, underlined by an RMSE of 6195.0590 and an R^2 value of 0.7640. These metrics confirm that our model achieves a substantial degree of predictive accuracy while capturing a significant portion of the variance within the dataset.
+Our analysis utilizing Ridge regression has yielded robust results, underlined by an RMSE of 5447.9089 and an R^2 value of 0.8170. These metrics confirm that our model achieves a substantial degree of predictive accuracy while capturing a significant portion of the variance within the dataset.
 
 ### Key Insights from the Analysis:
 
 1. **Model Efficacy:**
-   - The **R^2 value of 0.7640** indicates that approximately 76.40% of the variability in the target variable (car prices) is explainable by the features included in the model. This strong performance highlights the model's effectiveness in understanding and predicting car prices based on various vehicle characteristics.
-   - An **RMSE of 6195.0590**, while substantial, is reasonable given the variability and range of car prices in the dataset. This measure provides a benchmark for expected prediction error and can be used to gauge individual predictions' accuracy.
+   - The **R^2 value of 0.8170** indicates that approximately 81.70% of the variability in the target variable (car prices) is explainable by the features included in the model. This strong performance highlights the model's effectiveness in understanding and predicting car prices based on various vehicle characteristics.
+   - An **RMSE of 5447.9089**, while substantial, is reasonable given the variability and range of car prices in the dataset. This measure provides a benchmark for expected prediction error and can be used to gauge individual predictions' accuracy.
 
 2. **Influence of Vehicle Attributes:**
    - **Model Coefficients** have provided valuable insights into how different car models, conditions, and other features like mileage and age impact price evaluations. High-value models, such as luxury and performance vehicles, have shown a positive correlation with price, enhancing their valuation significantly.
